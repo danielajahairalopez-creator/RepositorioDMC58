@@ -1,3 +1,3 @@
 import streamlit as st 
 
-st.tittle("Mi primera aplicación en python")
+st.title("Mi primera aplicación en python")
